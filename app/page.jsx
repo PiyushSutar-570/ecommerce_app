@@ -11,10 +11,6 @@ import Footer from "@/components/Footer";
 const Home = () => {
   return (
     <>
-     <h1 className="text-red-500 text-5xl font-bold">
-      Tailwind is working
-    </h1>
-
       <Navbar/>
       <div className="px-6 md:px-16 lg:px-32">
         <HeaderSlider />
