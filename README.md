@@ -7,6 +7,8 @@ This project is designed to simulate a real-world **online shopping platform** w
 
 ---
 
+#deployed link : https://ecommerce-app-puce-pi.vercel.app/
+
 # 🚀 Features
 
 ### Customer Features
